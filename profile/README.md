@@ -1,1 +1,1 @@
-## Hi there 👋
+The Division of Electromobility [EM](https://eit.rptu.de/en/fgs/em) division at the Department of Electrical Engineering and Information Technology within [RPTU](https://rptu.de/) focuses on research on driver assistance systems and automated driving. electrification and automation of commercial vehicles, energy and thermal management in electric and hybrid vehicles, grid integration of electric vehicles and control theory and machine learning. You can find the code used for applications related to the aforementioned technologies here.
